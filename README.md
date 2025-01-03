@@ -45,8 +45,3 @@ In this project, we design agents for the classic version of Pacman, including t
 3. **Evaluation Function**:
    - Writing a better evaluation function to improve agent performance, focusing on state evaluation rather than action evaluation.
 
-4. **Testing & Debugging**:
-   - The autograder can be used for automated testing of different components of the project.
-   - Graphics and non-graphics options for testing performance.
-   - Various test cases provided for each question, which can be run through the command:
-
